@@ -61,3 +61,13 @@
 .keyboard__key--dark {
   background-color: rgba(0, 0, 0, 0.25);
 }
+
+.use-keyboard-input {
+  border-color: rgb(7, 102, 110);
+  box-shadow: 2px 2px 8px rgb(7, 102, 110);
+}
+
+.use-keyboard-input:focus {
+  outline: none;
+  border-color: rgb(7, 102, 110);
+}
